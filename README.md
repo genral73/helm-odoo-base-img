@@ -1,1 +1,1 @@
-# helm-odoo-base-img
+# helm-odoo-base-img v11
