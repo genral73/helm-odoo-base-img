@@ -1,0 +1,1 @@
+# helm-odoo-base-img
